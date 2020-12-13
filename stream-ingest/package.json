@@ -1,0 +1,9 @@
+{
+  "name": "stream-ingest",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "repository": "https://github.com/balances-eth/balances-eth",
+  "author": "Leon Rinkel <leon@rinkel.me>",
+  "license": "MIT",
+  "private": true
+}

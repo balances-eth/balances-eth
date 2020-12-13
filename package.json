@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "workspaces": [
+        "chain-lib",
+        "stream-ingest",
+        "time-machine"
+    ]
+}
